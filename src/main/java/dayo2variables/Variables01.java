@@ -61,6 +61,8 @@ public class Variables01 {
         double weightCell = 0.0000000000015;
         System.out.println("weightCell = " + weightCell);
 
+        System.out.println("deneme github");
+
 
     }
 
