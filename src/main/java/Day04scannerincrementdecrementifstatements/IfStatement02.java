@@ -15,5 +15,12 @@ public class IfStatement02 {
        }else{
            System.out.println("Tek sayi");
        }
+       //Diger yol
+        if(sayi%2 ==0){
+            System.out.println("Sayi Cifttir.....");
+        }
+        if(sayi %2 != 0){
+            System.out.println("Sayi tektir....");
+        }
     }
 }

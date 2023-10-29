@@ -1,4 +1,4 @@
-package dayo2variables;
+package day02variables;
 
 public class Variables01 {
     public static void main(String[] args) {
